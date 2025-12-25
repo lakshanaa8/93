@@ -116,3 +116,4 @@ But the current design **intentionally creates new documents** each time, which 
 
 The transcripts for call_id 39 and 40 **are being saved in MongoDB** - you can verify by querying MongoDB directly. The "update" you're looking for (call_status) is in PostgreSQL, which is the correct place for it according to the architecture.
 
+

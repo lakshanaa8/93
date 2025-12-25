@@ -24,3 +24,4 @@ if len(docs) == 0:
     print("No transcripts found for call_id 39 or 40")
     print("This means MongoDB insertions may have failed silently")
 
+
